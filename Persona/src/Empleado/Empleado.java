@@ -9,10 +9,6 @@
  */
 package Empleado;
 
-/**
- *
- * @author 52744
- */
 public class Empleado extends Persona.Persona
 {
     private int idempleado;
